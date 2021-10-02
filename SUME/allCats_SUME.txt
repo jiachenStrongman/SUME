@@ -1,0 +1,34 @@
+0 Books
+1 Electronics
+2 Jewlery
+3 Gardening
+4 Automobile
+5 Pets
+6 Toys
+7 Computer
+8 Camping
+9 Sports
+10 Home
+11 Consumeables
+12 Productivity
+13 Cooking
+14 Clothing
+15 Furniture
+16 Appliance
+17 Exercise
+18 Luxury
+19 Art
+20 Hygiene 
+21 Decor
+22 Shoes
+23 Music
+24 Video Games
+25 Learning
+26 Television
+27 Beauty
+28 Small Business
+29 Tools
+30 Photography
+31 Bed Bath
+32 Speakers
+33 Lighting

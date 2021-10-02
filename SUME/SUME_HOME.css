@@ -1,0 +1,53 @@
+body {
+    background-color: #d5cdb8;
+}
+
+h1 a{
+    font-family: Arial;
+    color: #000000;
+    text-decoration: none;
+    color: #000000;
+
+}
+
+h2 {
+    font-family: Arial;
+}
+
+.map{
+    overflow: auto;
+    background-color: #d5cdb8
+}
+
+.map a{
+    font-family: Arial;
+    font-weight: bold;
+    float: none;
+    text-align: center;
+    color: #000000;
+    text-align:center;
+    padding: 2px 18px;
+    text-decoration: none;
+    font-size: 35px;
+    width: 25%;
+}
+
+.map a:hover{
+    background-color: #746756;
+    color: #ffffff;
+}
+
+#time{
+    font-family: Arial;
+    color: #000000;
+    font-size: 35px;
+    text-align: right;
+    font-weight: bold;
+}
+#timeMess {
+    font-family: Arial;
+    color: #000000;
+    font-size: 35px;
+    text-align: right;
+    font-weight: bold;
+}
